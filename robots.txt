@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://massage4.pages.dev
+Sitemap: https://massage4.pages.dev/sitemap.xml
